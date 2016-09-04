@@ -1,5 +1,5 @@
 j  first commit
-workshop#1
+split#1
 insert#1
 workshop#2
 j  second commit
