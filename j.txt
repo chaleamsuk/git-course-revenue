@@ -1,3 +1,4 @@
 j  first commit
+insert#1
 j  second commit
 J  tree commit
