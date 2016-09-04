@@ -2,7 +2,6 @@ j  first commit
 split#1
 split#2
 insert#1
-workshop#2
 j  second commit
 insert#2
-workshop#3
+split#3
